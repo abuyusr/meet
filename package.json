@@ -26,10 +26,11 @@
     "workbox-strategies": "^6.5.4",
     "workbox-streams": "^6.5.4"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test a",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
